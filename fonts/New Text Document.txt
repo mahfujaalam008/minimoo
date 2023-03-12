@@ -1,0 +1,14 @@
+Inconsolata:
+
+font-family: 'Inconsolata', monospace;
+
+Ubuntu:
+font-family: 'Ubuntu', sans-serif;
+
+Raleway:
+font-family: 'Raleway', sans-serif;
+
+playfair:
+font-family: 'Playfair Display', serif;
+
+
